@@ -7,7 +7,7 @@
 ## 如何参与翻译
 ### 如何参与：
 * 请从下文“待翻译问题链接”中寻找你感兴趣的问答进行翻译。fork后直接在contents目录对应问题的md下翻译，无需更新README.md文档。之后提一个PR，我负责合并PR并更新到README中。
-* 为了避免多人重复翻译（或优化翻译）一个问题，你可以提issue，说明你计划翻译（或优化翻译）的问题及时间点，我可以先更新到下面的”未翻译问题“中，说明已有人领了这个问题。当然，也不一定要提issue，一般情况下，只要及时提PR，我及时审核，出现”撞车“的概率并不高。
+* 为了避免多人重复翻译（或优化翻译）一个问题，你可以提issue，说明你计划翻译（或优化翻译）的问题及时间点，我可以先更新到下面的”计划翻译问题“中，说明已有人领了这个问题。当然，也不一定要提issue，一般情况下，只要及时提PR，我及时审核，出现”撞车“的概率并不高。
 
 ### 内容格式约定
 * 为保持阅读体验，请按各问题的md文件格式翻译问题
@@ -39,15 +39,14 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 ```
 
 ### 每个人可以做（但不限于）：
-* 找未翻译的问题进行翻译
+* 找待翻译的问题进行翻译
 * 优化已翻译的问题
 
 ## 目录
-
-## 未翻译问题
+* [Go中如何判断一个map包含指定key](contents/how-to-check-if-a-map-contains-a-key-in-go.md)
+## 计划翻译问题
 
 ## 待翻译问题链接
-* [How to check if a map contains a key in Go?](https://stackoverflow.com/questions/2050391/how-to-check-if-a-map-contains-a-key-in-go)
 * [How to efficiently concatenate strings in go](https://stackoverflow.com/questions/1760757/how-to-efficiently-concatenate-strings-in-go)
 * [How do you write multiline strings in Go?](https://stackoverflow.com/questions/7933460/how-do-you-write-multiline-strings-in-go)
 * [Is there a foreach loop in Go?](https://stackoverflow.com/questions/7782411/is-there-a-foreach-loop-in-go)
