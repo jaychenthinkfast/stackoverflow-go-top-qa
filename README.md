@@ -44,10 +44,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 
 ## 目录
 * [Go中如何判断一个map包含指定key](contents/how-to-check-if-a-map-contains-a-key-in-go.md)
+* [Go中如何高效连接字符串](contents/how-to-efficiently-concatenate-strings-in-go.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [How to efficiently concatenate strings in go](https://stackoverflow.com/questions/1760757/how-to-efficiently-concatenate-strings-in-go)
 * [How do you write multiline strings in Go?](https://stackoverflow.com/questions/7933460/how-do-you-write-multiline-strings-in-go)
 * [Is there a foreach loop in Go?](https://stackoverflow.com/questions/7782411/is-there-a-foreach-loop-in-go)
 * [What is an idiomatic way of representing enums in Go?](https://stackoverflow.com/questions/14426366/what-is-an-idiomatic-way-of-representing-enums-in-go)
