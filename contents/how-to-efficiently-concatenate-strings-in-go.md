@@ -194,7 +194,10 @@ BenchmarkConcat-8                     10         105603419 ns/op        10866851
 https://stackoverflow.com/questions/1760757/how-to-efficiently-concatenate-strings-in-go
 
 ## 扩展
-在题主问题提出后Go1.10+ 增加了strings.Builder，在bytes源码注释中标明：strings.Builder比bytes.Buffer构建字符串上更加高效。
+在题主问题提出后Go1.10+ 增加了strings.Builder，在bytes源码注释中表明：strings.Builder比bytes.Buffer构建字符串上更加高效。
+
+原因在于bytes.Buffer重新申请了一块空间存放生成的string，strings.Builder则直接将底层的[]byte转换成了string。
+* bytes.Buffer
 ```
 // String returns the contents of the unread portion of the buffer
 // as a string. If the Buffer is a nil pointer, it returns "<nil>".
@@ -206,5 +209,12 @@ func (b *Buffer) String() string {
 		return "<nil>"
 	}
 	return string(b.buf[b.off:])
+}
+```
+* strings.Builder
+``` 
+// String returns the accumulated string.
+func (b *Builder) String() string {
+	return *(*string)(unsafe.Pointer(&b.buf))
 }
 ```
