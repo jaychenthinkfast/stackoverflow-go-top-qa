@@ -45,12 +45,12 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 ## 目录
 * [Go中如何判断一个map包含指定key](contents/how-to-check-if-a-map-contains-a-key-in-go.md)
 * [Go中如何高效连接字符串](contents/how-to-efficiently-concatenate-strings-in-go.md)
-* [在Go中如何编写多行字符串](contents/how-do-you-write-multiline-strings-in-go.md)
+* [Go中如何编写多行字符串](contents/how-do-you-write-multiline-strings-in-go.md)
 * [Go中是否有foreach循环](contents/is-there-a-foreach-loop-in-go.md)
+* [Go中什么是表示枚举的惯用方式？](contents/what-is-an-idiomatic-way-of-representing-enums-in-go.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [What is an idiomatic way of representing enums in Go?](https://stackoverflow.com/questions/14426366/what-is-an-idiomatic-way-of-representing-enums-in-go)
 * [Concatenate two slices in Go](https://stackoverflow.com/questions/16248241/concatenate-two-slices-in-go)
 * [How to convert an int value to string in Go?](https://stackoverflow.com/questions/10105935/how-to-convert-an-int-value-to-string-in-go)
 * [Optional Parameters in Go?](https://stackoverflow.com/questions/2032149/optional-parameters-in-go)

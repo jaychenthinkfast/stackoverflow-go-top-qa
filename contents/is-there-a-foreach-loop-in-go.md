@@ -19,7 +19,7 @@ for index, element := range someSlice {
 如果你不关心索引，可以使用 _ :
 ```
 for _, element := range someSlice {
-// element is the element from someSlice for where we are
+    // element is the element from someSlice for where we are
 }
 ```
 下划线, _，是[空白标识符](https://golang.org/ref/spec#Blank_identifier) ，匿名占位符。
