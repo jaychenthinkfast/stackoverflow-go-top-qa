@@ -49,10 +49,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [Go中是否有foreach循环](contents/is-there-a-foreach-loop-in-go.md)
 * [Go中什么是表示枚举的惯用方式](contents/what-is-an-idiomatic-way-of-representing-enums-in-go.md)
 * [Go中如何连接两个切片](contents/concatenate-two-slices-in-go.md)
+* [Go中如何转换int到string](contents/how-to-convert-an-int-value-to-string-in-go.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [How to convert an int value to string in Go?](https://stackoverflow.com/questions/10105935/how-to-convert-an-int-value-to-string-in-go)
 * [Optional Parameters in Go?](https://stackoverflow.com/questions/2032149/optional-parameters-in-go)
 * [How can I convert a zero-terminated byte array to string?](https://stackoverflow.com/questions/14230145/how-can-i-convert-a-zero-terminated-byte-array-to-string)
 * [How to check if a file exists in Go?](https://stackoverflow.com/questions/12518876/how-to-check-if-a-file-exists-in-go)
