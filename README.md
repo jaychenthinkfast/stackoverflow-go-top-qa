@@ -51,10 +51,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [Go中如何连接两个切片](contents/concatenate-two-slices-in-go.md)
 * [Go中如何转换int到string](contents/how-to-convert-an-int-value-to-string-in-go.md)
 * [Go中是否支持可选参数](contents/optional-parameters-in-go.md)
+* [如何转化一个以0终止的字节数组到字符串](contents/how-can-i-convert-a-zero-terminated-byte-array-to-string.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [How can I convert a zero-terminated byte array to string?](https://stackoverflow.com/questions/14230145/how-can-i-convert-a-zero-terminated-byte-array-to-string)
 * [How to check if a file exists in Go?](https://stackoverflow.com/questions/12518876/how-to-check-if-a-file-exists-in-go)
 * [How to print struct variables in console?](https://stackoverflow.com/questions/24512112/how-to-print-struct-variables-in-console)
 * [What are the use(s) for tags in Go?](https://stackoverflow.com/questions/10858787/what-are-the-uses-for-tags-in-go)
