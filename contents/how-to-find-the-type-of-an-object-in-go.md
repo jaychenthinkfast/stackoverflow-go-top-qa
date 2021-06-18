@@ -35,8 +35,5 @@ float64
 
 更多说明可参考：http://golang.org/pkg/reflect/#Type
 
-## 回答2
-这是回答2的描述
-
 ## stackoverflow链接
 https://stackoverflow.com/questions/20170275/how-to-find-the-type-of-an-object-in-go
