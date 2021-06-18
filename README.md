@@ -54,10 +54,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [如何转化一个以0终止的字节数组到字符串](contents/how-can-i-convert-a-zero-terminated-byte-array-to-string.md)
 * [Go中如何检测文件是否存在](contents/how-to-check-if-a-file-exists-in-go.md)
 * [如何在控制台中打印结构变量](contents/how-to-print-struct-variables-in-console.md)
+* [Go中标签有什么用](contents/what-are-the-uses-for-tags-in-go.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [What are the use(s) for tags in Go?](https://stackoverflow.com/questions/10858787/what-are-the-uses-for-tags-in-go)
 * [How to find the type of an object in Go?](https://stackoverflow.com/questions/20170275/how-to-find-the-type-of-an-object-in-go)
 * [Format a Go string without printing?](https://stackoverflow.com/questions/11123865/format-a-go-string-without-printing)
 * [How to assign string to bytes array](https://stackoverflow.com/questions/8032170/how-to-assign-string-to-bytes-array)
