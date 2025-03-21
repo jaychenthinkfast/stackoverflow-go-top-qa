@@ -57,10 +57,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [Go中标签有什么用](contents/what-are-the-uses-for-tags-in-go.md)
 * [Go中如何找到对象的类型](contents/how-to-find-the-type-of-an-object-in-go.md)
 * [格式化Go字符串而不打印？](contents/format-a-go-string-without-printing.md)
+* [如何将字符串分配给字节数组](contents/how-to-assign-string-to-bytes-array.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [How to assign string to bytes array](https://stackoverflow.com/questions/8032170/how-to-assign-string-to-bytes-array)
 * [When is the init() function run?](https://stackoverflow.com/questions/24790175/when-is-the-init-function-run)
 * [Reading a file line by line in Go](https://stackoverflow.com/questions/8757389/reading-a-file-line-by-line-in-go)
 * [Pointers vs. values in parameters and return values](https://stackoverflow.com/questions/23542989/pointers-vs-values-in-parameters-and-return-values)
