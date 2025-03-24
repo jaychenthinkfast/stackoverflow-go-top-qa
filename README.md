@@ -60,10 +60,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [如何将字符串分配给字节数组](contents/how-to-assign-string-to-bytes-array.md)
 * [init（） 函数何时运行？](contents/when-is-the-init-function-run.md)
 * [在 Go 中逐行读取文件](contents/reading-a-file-line-by-line-in-go.md)
+* [返回值还是指针](contents/pointers-vs-values-in-parameters-and-return-values.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [Pointers vs. values in parameters and return values](https://stackoverflow.com/questions/23542989/pointers-vs-values-in-parameters-and-return-values)
 * [What is the idiomatic Go equivalent of C's ternary operator?](https://stackoverflow.com/questions/19979178/what-is-the-idiomatic-go-equivalent-of-cs-ternary-operator)
 * [What should be the values of GOPATH and GOROOT?](https://stackoverflow.com/questions/7970390/what-should-be-the-values-of-gopath-and-goroot)
 * [Iterating over all the keys of a map](https://stackoverflow.com/questions/1841443/iterating-over-all-the-keys-of-a-map)
