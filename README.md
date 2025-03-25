@@ -66,7 +66,7 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [Iterating over all the keys of a map](https://stackoverflow.com/questions/1841443/iterating-over-all-the-keys-of-a-map)
+* [遍历映射中的所有键](contents/iterating-over-all-the-keys-of-a-map.md)
 * [How to multiply duration by integer?](https://stackoverflow.com/questions/17573190/how-to-multiply-duration-by-integer)
 * [Does Go have “if x in” construct similar to Python?](https://stackoverflow.com/questions/15323767/does-go-have-if-x-in-construct-similar-to-python)
 * [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/questions/22892120/how-to-generate-a-random-string-of-a-fixed-length-in-go)
