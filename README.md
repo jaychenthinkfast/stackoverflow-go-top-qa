@@ -66,10 +66,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [遍历映射中的所有键](contents/iterating-over-all-the-keys-of-a-map.md)
 * [如何将持续时间乘以整数？](contents/how-to-multiply-duration-by-integer.md)
 * [Go 是否有类似于 Python 的 "if x in" 构造？](contents/does-go-have-if-x-in-construct-similar-to-python.md)
+* [如何在 Go 中生成一个固定长度的随机字符串？](contents/how-to-generate-a-random-string-of-a-fixed-length-in-go.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [How to generate a random string of a fixed length in Go?](https://stackoverflow.com/questions/22892120/how-to-generate-a-random-string-of-a-fixed-length-in-go)
 * [Function declaration syntax: things in parenthesis before function name](https://stackoverflow.com/questions/34031801/function-declaration-syntax-things-in-parenthesis-before-function-name)
 * [What is the best way to test for an empty string in Go?](https://stackoverflow.com/questions/18594330/what-is-the-best-way-to-test-for-an-empty-string-in-go)
 * [Checking the equality of two slices](https://stackoverflow.com/questions/15311969/checking-the-equality-of-two-slices)
