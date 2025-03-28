@@ -69,11 +69,11 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [如何在 Go 中生成一个固定长度的随机字符串？](contents/how-to-generate-a-random-string-of-a-fixed-length-in-go.md)
 * [函数声明语法：函数名前的括号内内容](contents/function-declaration-syntax-things-in-parenthesis-before-function-name.md)
 * [Go 中测试空字符串的最佳方法是什么？](contents/what-is-the-best-way-to-test-for-an-empty-string-in-go.md)
+* [检查两个切片是否相等](contents/checking-the-equality-of-two-slices.md)
+* [Go 中:=和=操作符的区别](contents/difference-between-and-operators-in-go.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [Checking the equality of two slices](https://stackoverflow.com/questions/15311969/checking-the-equality-of-two-slices)
-* [Difference between := and = operators in Go](https://stackoverflow.com/questions/17891226/difference-between-and-operators-in-go)
 * [How to read/write from/to file using Go?](https://stackoverflow.com/questions/1821811/how-to-read-write-from-to-file-using-go)
 * [How to read from standard input in the console?](https://stackoverflow.com/questions/20895552/how-to-read-from-standard-input-in-the-console)
 * [How to handle configuration in Go [closed]](https://stackoverflow.com/questions/16465705/how-to-handle-configuration-in-go)
