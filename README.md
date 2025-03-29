@@ -72,10 +72,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [检查两个切片是否相等](contents/checking-the-equality-of-two-slices.md)
 * [Go 中:=和=操作符的区别](contents/difference-between-and-operators-in-go.md)
 * [如何使用 Go 读取/写入文件?](contents/how-to-read-write-from-to-file-using-go.md)
+* [我如何在控制台中读取标准输入？](contents/how-to-read-from-standard-input-in-the-console.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [How to read from standard input in the console?](https://stackoverflow.com/questions/20895552/how-to-read-from-standard-input-in-the-console)
 * [How to handle configuration in Go [closed]](https://stackoverflow.com/questions/16465705/how-to-handle-configuration-in-go)
 * [Getting a slice of keys from a map](https://stackoverflow.com/questions/21362950/getting-a-slice-of-keys-from-a-map)
 * [How do I send a JSON string in a POST request in Go](https://stackoverflow.com/questions/24455147/how-do-i-send-a-json-string-in-a-post-request-in-go)
