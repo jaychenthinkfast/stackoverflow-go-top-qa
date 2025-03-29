@@ -71,10 +71,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [Go 中测试空字符串的最佳方法是什么？](contents/what-is-the-best-way-to-test-for-an-empty-string-in-go.md)
 * [检查两个切片是否相等](contents/checking-the-equality-of-two-slices.md)
 * [Go 中:=和=操作符的区别](contents/difference-between-and-operators-in-go.md)
+* [如何使用 Go 读取/写入文件?](contents/how-to-read-write-from-to-file-using-go.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [How to read/write from/to file using Go?](https://stackoverflow.com/questions/1821811/how-to-read-write-from-to-file-using-go)
 * [How to read from standard input in the console?](https://stackoverflow.com/questions/20895552/how-to-read-from-standard-input-in-the-console)
 * [How to handle configuration in Go [closed]](https://stackoverflow.com/questions/16465705/how-to-handle-configuration-in-go)
 * [Getting a slice of keys from a map](https://stackoverflow.com/questions/21362950/getting-a-slice-of-keys-from-a-map)
