@@ -74,10 +74,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [如何使用 Go 读取/写入文件?](contents/how-to-read-write-from-to-file-using-go.md)
 * [我如何在控制台中读取标准输入？](contents/how-to-read-from-standard-input-in-the-console.md)
 * [Go 中如何处理配置](contents/how-to-handle-configuration-in-go.md)
+* [从映射中获取键的切片](contents/getting-a-slice-of-keys-from-a-map.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [Getting a slice of keys from a map](https://stackoverflow.com/questions/21362950/getting-a-slice-of-keys-from-a-map)
 * [How do I send a JSON string in a POST request in Go](https://stackoverflow.com/questions/24455147/how-do-i-send-a-json-string-in-a-post-request-in-go)
 * [How to avoid annoying error “declared and not used”](https://stackoverflow.com/questions/21743841/how-to-avoid-annoying-error-declared-and-not-used)
 * [How do I SET the GOPATH environment variable on Ubuntu? What file must I edit?](https://stackoverflow.com/questions/21001387/how-do-i-set-the-gopath-environment-variable-on-ubuntu-what-file-must-i-edit)
