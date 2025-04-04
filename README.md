@@ -76,10 +76,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [Go 中如何处理配置](contents/how-to-handle-configuration-in-go.md)
 * [从映射中获取键的切片](contents/getting-a-slice-of-keys-from-a-map.md)
 * [如何在 Go 中发送 JSON 字符串的 POST 请求](contents/how-do-i-send-a-json-string-in-a-post-request-in-go.md)
+* [如何避免令人烦恼的错误“已声明但未使用”](contents/how-to-avoid-annoying-error-declared-and-not-used.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [How to avoid annoying error “declared and not used”](https://stackoverflow.com/questions/21743841/how-to-avoid-annoying-error-declared-and-not-used)
 * [How do I SET the GOPATH environment variable on Ubuntu? What file must I edit?](https://stackoverflow.com/questions/21001387/how-do-i-set-the-gopath-environment-variable-on-ubuntu-what-file-must-i-edit)
 * [Convert string to integer type in Go?](https://stackoverflow.com/questions/4278430/convert-string-to-integer-type-in-go)
 * [Handling JSON Post Request in Go](https://stackoverflow.com/questions/15672556/handling-json-post-request-in-go)
