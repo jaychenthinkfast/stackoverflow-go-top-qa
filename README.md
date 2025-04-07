@@ -80,10 +80,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [如何在 Ubuntu 上设置 GOPATH 环境变量？必须编辑哪个文件？](contents/how-do-i-set-the-gopath-environment-variable-on-ubuntu-what-file-must-i-edit.md)
 * [在 Go 中将字符串转换为整型？](contents/convert-string-to-integer-type-in-go.md)
 * [Go 中处理 JSON POST 请求](contents/handling-json-post-request-in-go.md)
+* [删除使用 go get 安装的包](contents/removing-packages-installed-with-go-get.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [Removing packages installed with go get](https://stackoverflow.com/questions/13792254/removing-packages-installed-with-go-get)
 * [Correct way to initialize empty slice](https://stackoverflow.com/questions/29164375/correct-way-to-initialize-empty-slice)
 * [How to get the directory of the currently running file?](https://stackoverflow.com/questions/18537257/how-to-get-the-directory-of-the-currently-running-file)
 * [Contains method for a slice](https://stackoverflow.com/questions/10485743/contains-method-for-a-slice)
