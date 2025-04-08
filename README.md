@@ -81,10 +81,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [在 Go 中将字符串转换为整型？](contents/convert-string-to-integer-type-in-go.md)
 * [Go 中处理 JSON POST 请求](contents/handling-json-post-request-in-go.md)
 * [删除使用 go get 安装的包](contents/removing-packages-installed-with-go-get.md)
+* [初始化空切片的正确方法](contents/correct-way-to-initialize-empty-slice.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [Correct way to initialize empty slice](https://stackoverflow.com/questions/29164375/correct-way-to-initialize-empty-slice)
 * [How to get the directory of the currently running file?](https://stackoverflow.com/questions/18537257/how-to-get-the-directory-of-the-currently-running-file)
 * [Contains method for a slice](https://stackoverflow.com/questions/10485743/contains-method-for-a-slice)
 * [Organizing a multiple-file Go project [closed]](https://stackoverflow.com/questions/9985559/organizing-a-multiple-file-go-project)
