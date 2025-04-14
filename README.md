@@ -85,7 +85,7 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [How to get the directory of the currently running file?](https://stackoverflow.com/questions/18537257/how-to-get-the-directory-of-the-currently-running-file)
+* [如何获取当前运行文件的目录？](contents/how-to-get-the-directory-of-the-currently-running-file.md)
 * [Contains method for a slice](https://stackoverflow.com/questions/10485743/contains-method-for-a-slice)
 * [Organizing a multiple-file Go project [closed]](https://stackoverflow.com/questions/9985559/organizing-a-multiple-file-go-project)
 * [How to run test cases in a specified file?](https://stackoverflow.com/questions/16935965/how-to-run-test-cases-in-a-specified-file)
