@@ -82,11 +82,11 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [Go 中处理 JSON POST 请求](contents/handling-json-post-request-in-go.md)
 * [删除使用 go get 安装的包](contents/removing-packages-installed-with-go-get.md)
 * [初始化空切片的正确方法](contents/correct-way-to-initialize-empty-slice.md)
+* [如何获取当前运行文件的目录？](contents/how-to-get-the-directory-of-the-currently-running-file.md)
+* [切片是否包含的方法](contents/contains-method-for-a-slice.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [如何获取当前运行文件的目录？](contents/how-to-get-the-directory-of-the-currently-running-file.md)
-* [Contains method for a slice](https://stackoverflow.com/questions/10485743/contains-method-for-a-slice)
 * [Organizing a multiple-file Go project [closed]](https://stackoverflow.com/questions/9985559/organizing-a-multiple-file-go-project)
 * [How to run test cases in a specified file?](https://stackoverflow.com/questions/16935965/how-to-run-test-cases-in-a-specified-file)
 * [X does not implement Y (… method has a pointer receiver)](https://stackoverflow.com/questions/40823315/x-does-not-implement-y-method-has-a-pointer-receiver)
