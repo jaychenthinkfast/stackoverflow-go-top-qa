@@ -85,10 +85,10 @@ https://stackoverflow.com/questions/1736014/delete-mapkey-in-go
 * [如何获取当前运行文件的目录？](contents/how-to-get-the-directory-of-the-currently-running-file.md)
 * [切片是否包含的方法](contents/contains-method-for-a-slice.md)
 * [如何在指定文件中运行测试用例？](contents/how-to-run-test-cases-in-a-specified-file.md)
+* [Golang 方法使用指针接收器](contents/x-does-not-implement-y-method-has-a-pointer-receiver.md)
 ## 计划翻译问题
 
 ## 待翻译问题链接
-* [X does not implement Y (… method has a pointer receiver)](https://stackoverflow.com/questions/40823315/x-does-not-implement-y-method-has-a-pointer-receiver)
 * [What is a rune?](https://stackoverflow.com/questions/19310700/what-is-a-rune)
 * [go get results in 'terminal prompts disabled' error for github private repo](https://stackoverflow.com/questions/32232655/go-get-results-in-terminal-prompts-disabled-error-for-github-private-repo)
 * [How does Go compile so quickly?](https://stackoverflow.com/questions/2976630/how-does-go-compile-so-quickly)
